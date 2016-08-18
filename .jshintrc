@@ -27,6 +27,7 @@
     "mixpanel": true,
     "JSON": true,
     "Papa": true,
-    "FileReader":true
+    "FileReader":true,
+    "_": true
   }
 }

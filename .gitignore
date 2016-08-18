@@ -23,3 +23,4 @@ client/vendor
 client/src/vendor
 .imdone
 .nyc_output
+dist
